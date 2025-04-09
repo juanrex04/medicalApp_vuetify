@@ -52,6 +52,8 @@
 
 <script>export default {
     data: () => ({
+        //Used for the v-model of the navigation drawer
+        //This is used to open and close the drawer
         drawer: true,
 
 
